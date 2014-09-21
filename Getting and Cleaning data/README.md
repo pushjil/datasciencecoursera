@@ -1,6 +1,7 @@
-run_analysis.R 
-========================================================
-* Extracts  X data from the test and train directories of "./UCI HAR Dataset/"
+### run_analysis.R 
+
+* Extracts  X data from the test and train directories of "./UCI HAR Dataset/" 
+
 * Extracts features and activity data from "./UCI HAR Dataset/" and store them.
 * Change the column names of X data from var1,var2 to real values.-ie., mean,sd etc from the features.
 * The first 6 rows only correspond to mean and standatrd deviation - extract it

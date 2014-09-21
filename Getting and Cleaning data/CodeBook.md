@@ -1,5 +1,5 @@
-DATA DICTIONARY - Human Activity Recognition Using Smartphones
-====================
+### DATA DICTIONARY - Human Activity Recognition Using Smartphones 
+
 
 The columns of the table are
 "Subject"            "aver_of"            "LAYING"             "SITTING"           
