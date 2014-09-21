@@ -1,12 +1,14 @@
 DATA DICTIONARY - Human Activity Recognition Using Smartphones
+====================
 
 The columns of the table are
 "Subject"            "aver_of"            "LAYING"             "SITTING"           
 "STANDING"           "WALKING"            "WALKING_DOWNSTAIRS" "WALKING_UPSTAIRS" 
-'''
+
+
 Column name  |  Description
-.............|:........................................................
-1.Subject    |   1
+-------------|:-----------------------------------
+1. Subject    |   1
              |  The id of the Volunteer who carried out the experiment
              |  1 to 30
              |  
@@ -52,4 +54,3 @@ Column name  |  Description
                      |  1.242241e+255 .... 
                      |  180 values         
      
-'''
