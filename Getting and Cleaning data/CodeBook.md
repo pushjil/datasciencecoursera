@@ -3,7 +3,7 @@ DATA DICTIONARY - Human Activity Recognition Using Smartphones
 The columns of the table are
 "Subject"            "aver_of"            "LAYING"             "SITTING"           
 "STANDING"           "WALKING"            "WALKING_DOWNSTAIRS" "WALKING_UPSTAIRS" 
-
+'''
 Column name  |  Description
 .............|:........................................................
 1.Subject    |   1
@@ -52,3 +52,4 @@ Column name  |  Description
                      |  1.242241e+255 .... 
                      |  180 values         
      
+'''
